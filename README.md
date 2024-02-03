@@ -18,4 +18,4 @@ Wait for the global promise to be resolved before displaying the route
 - src/stores/plugins/persistPlugin.ts (Plugin file)
 
 ### Exemples of projects used this plugin
-- https://github.com/loicngr/kdrive-todo
+- https://github.com/loicngr/kdrive-notes
